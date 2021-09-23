@@ -1,9 +1,9 @@
 <!-- badge list -->
 <p>
-  <a href="http://twitter.com/nayu_tech" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/nayu_tech" target="_blank" rel="noopener noreferrer">
     <img height="28" src="https://img.shields.io/twitter/follow/nayu_tech?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="http://nayutari.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://nayutari.com" target="_blank" rel="noopener noreferrer">
     <img height="28" src="https://img.shields.io/badge/Nayutari-com-green" />
   </a>
 </p>
