@@ -51,15 +51,8 @@
 </p>
 
 <!-- readme stats -->
-![なゆた's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayutari&count_private=true&theme=tokyonight)
-<!--
-[![なゆた's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayutari&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayutari&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
+![なゆた's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayutari&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayutari&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>C++が得意、Pythonが好き、Rubyが嫌いなエンジニアです。</p>
 <p><a href="https://nayutari.com/" target="_blank" rel="noopener noreferrer">ブログ</a>もやってます。</p>
